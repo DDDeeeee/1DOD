@@ -5,7 +5,7 @@
 
 ### 1D Object Detection
 Example of 1D object detection. We used a single-edged version:  
-<img src="https://github.com/DDDeeeee/1DOD/blob/main/pics/1.png" alt="Example of 1D object detection. We used a single-edged version." style="zoom:20%;" />
+<img src="https://github.com/DDDeeeee/1DOD/blob/main/pics/1.png" alt="Example of 1D object detection. We used a single-edged version." style="zoom:12%;" />
 
 ### Task Process
 Traditional classification task combined with 1D bounding-box regression task:  
