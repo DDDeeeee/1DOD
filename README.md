@@ -13,7 +13,7 @@ Traditional classification task combined with 1D bounding-box regression task:
 
 ## Acknowledgments
 This paper is mainly based on the following works:  
-[alimeeting4mug](https://github.com/alibaba-damo-academy/SpokenNLP/tree/main/alimeeting4mug)(ICASSP2023)  
+[Alimeeting4mug](https://github.com/alibaba-damo-academy/SpokenNLP/tree/main/alimeeting4mug)(ICASSP2023)  
 [PoNet](https://github.com/lxchtan/ponet)(ICLR2022)  
 [SeqModel](https://arxiv.org/abs/2107.09278)(ASRU 2021)  
 
