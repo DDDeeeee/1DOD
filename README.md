@@ -1,6 +1,6 @@
 # 1DOD
 
-### One-Dimensional Object Detection for Streaming Text Segmentation of Meeting Dialogue (ACL 2025 Findings)
+### [One-Dimensional Object Detection for Streaming Text Segmentation of Meeting Dialogue](https://aclanthology.org/2025.findings-acl.213/) (ACL 2025 Findings)
 ------
 
 ## 🔬 1D Object Detection
